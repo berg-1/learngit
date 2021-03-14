@@ -1,5 +1,3 @@
-import webbrowser
-
+import math
 print("hello world!")
-
-webbrowser.open("github.com")
+print(f"Day of PI!{math.pi}")
